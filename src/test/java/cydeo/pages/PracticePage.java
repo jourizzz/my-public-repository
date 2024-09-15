@@ -42,9 +42,10 @@ public class PracticePage {
 
 
 
-        usernameEl.sendKeys(username);
+       /* usernameEl.sendKeys(username);
         passwordEl.sendKeys(password);
         loginButton.click();
+        */
 
 
 
